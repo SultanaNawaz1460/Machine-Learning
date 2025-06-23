@@ -1,10 +1,10 @@
- 🧠 Machine Learning Lab Manuals & Practical Implementations
+## 🧠 Machine Learning Lab Manuals & Practical Implementations
 
 Welcome to the **Machine Learning** repository! This collection contains comprehensive lab manuals, hands-on implementations, and foundational concepts in Machine Learning (ML).
 
 It is designed for students, researchers, and anyone interested in understanding how ML works through real-world examples and practical code.
 
-📚 Contents
+## 📚 Contents
 
 - 📘 Introduction to Machine Learning
 - 🔍 Supervised vs Unsupervised Learning
@@ -24,14 +24,14 @@ It is designed for students, researchers, and anyone interested in understanding
   - Accuracy, Precision, Recall
 - 📦 Projects & Assignments
 
- 🛠️ Tools & Technologies
+ ## 🛠️ Tools & Technologies
 
 - Python 3.x
 - Jupyter Notebook
 - NumPy, Pandas, Matplotlib, Seaborn
 - Scikit-learn
 
- 🎯 Learning Goals
+ ## 🎯 Learning Goals
 
 By working through this repository, you will:
 
@@ -41,5 +41,23 @@ By working through this repository, you will:
 - Analyze and evaluate model performance
 - Gain confidence in applying ML to real problems
 
-📁 Folder Structure
+## 📁 Folder Structure
+ ✍️ Author
+
+**Sultana Nawaz**  
+📧 Email: sultananawaz1460@gmail.com  
+🎓 BSc Telecommunication Engineering, UET Taxila
+
+## 🌟 Contributions
+
+Contributions, suggestions, and improvements are always welcome!  
+Please feel free to fork this repository and submit a pull request.
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
 
